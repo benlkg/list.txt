@@ -1,1 +1,23 @@
+Astro,#genre#
+AECtvbus,tvbus://4SVuMUx64b1gZV6BvWTdes5Cg5nSZYZUnRv9WuJ9LPhp2ShMtd
+AECp2p,p2p://lino.homeunix.com:6007/5b2c873100007ef4067c1d2352642785.ts#p2p://sdgdklwos.finetv.tv:9906/5b2c873100007ef4067c1d2352642785.ts#P2p://sdgdklwos.finetv.tv:9906/5b04fa270009e92c6bfca9d05e723d72#p2p://185.169.196.146:9906/5b2c873100007ef4067c1d2352642785#p2p://120.79.144.205:9906/5dc08ee8000888fa01b72dee30d1.ts
+AECp8p,p8p://0198.02686.cc:16871/5d1c8b08000635b61a100df85222a143.ts
+AECmitv,mitv://190.2.146.92:18912/5b3c4fa400003ee1627f11cc5acd0f18.ts#mitv://51.79.41.138:18912/5d65046a0003ac63de8da01b1a833dcb.ts.ts#mitv://51.79.41.138:18912/5b909942000bb565abbe327008ae1550.ts.ts
+全佳mitv,mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts#mitv://147.135.39.171:9906/5bf11c6e00092ddaa1fb76a8690b6a68.ts
+全佳tvbus,tvbus://4dA1qX1qx8xrrtsHFBKMWwg4QoExX2zc1cjryeZ8bVgvgoqsEw
+全佳p2p,p2p://lino.homeunix.com:6007/5b2c7b9d000cafb7064ee62073b5429d.ts#p2p://sdgdklwos.finetv.tv:9906/5b2c7b9d000cafb7064ee62073b5429d.ts#p2p://120.79.144.205:9906/5dc4e322000da68812a031ce725cew7c2.ts#P2p://170.178.164.245:6190/5b449155000917e0001d0330756126d5.ts
+华丽http,http://47.240.60.73/xaors/mlxy.php?channel=e5e127c858a11f24dcce918bd5838913
+华丽tvbus,tvbus://3PyTZ1jHC9ySsB4ASkAQEeW7YfYFm7vFC2GnyJ1eXw18ip8hRW
+华丽p2p,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0#p2p://120.79.144.205:9906/5dc4e32300010cc212a0327c9fcab557.ts#p2p://120.79.144.205:9906/5dc4e32300010cc212a0327c9fcab557.ts
+爱奇艺http,http://47.240.60.73/xaors/mlxy.php?channel=08400975e6beeb4aa15293b803fa9879
+爱奇艺tvbus,tvbus://3KdQmsHHv9grz9X5HeAPsWjjXvaXqSpCMYoQioBhLoMMahvcWv
+双星http,http://47.240.60.73/xaors/mlxy.php?hannel=a8b2a54597bbcc99ea1456264b72eab7
+双星mitv,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts#mitv://147.135.39.171:9906/5bf11c6e0007f50ca1fb765a4b4a1af3.ts
+双星tvbus,tvbus://3rFiNJAz46rgSXmmemXZieEhw9YUpYFq8NUKrvjxD1m97aHpeb
+双星p2p,p2p://lino.homeunix.com:6007/5b2f26bb000f257c10bb53ec280e5f3f.ts#p2p://sdgdklwos.finetv.tv:9906/5b2f26bb000f257c10bb53ec280e5f3f.ts#p2p://sdgdklwos.finetv.tv:9906/5b2f26bb000f257c10bb53ec280e5f3f.ts#p2p://185.169.196.146:9906/5b2f26bb000f257c10bb53ec280e5f3f.ts
+歡喜http,http://47.240.60.73/xaors/mlxy.php?hannel=3de4ad6eb09f1c115ee9c260efa85942
+歡喜tvbus,tvbus://3WeW4xwpMtbuMxdfjmCXETEaw7pzZj8dAWYSoGZ3g4bRvYkCk7
+歡喜p2p,p2p://lino.homeunix.com:6007/5b2c86ff000b8df6067b5ca240b93635.ts#
+喜悦p2p,p2p://lino.homeunix.com:6007/5b2c88690001d3520680e0317d774511.ts
+
 
