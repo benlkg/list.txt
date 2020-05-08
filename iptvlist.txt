@@ -61,9 +61,6 @@ Okto-On-5-http,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
 新加坡Suria-TV-http,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 其他,#genre#
-纬来日本http,http://58.99.33.2:1935/liveedge2/GYOLvJjB_79_1/playlist.m3u8?
-
-checkCode=37050688asdfsdfsadf&aa=as&fbclid=IwAR1nvLHI5BXASdMtqdH-z813T3Bp_fvpX87tptMcl0vPg0XH59K91b8KF58
 纬来日本rtmp,rtmp://xiaoyu.speedws.com/sat/tv771
 纬来日本tvbus,tvbus://jyuiyuikyu2655gfdgtr98g9ret9y7ui9847ere99reyuytut
 纬来日本p8p,p8p://0198.02686.cc:16871/5d8b6caa00035a0b14c1c834b40e4885.ts
